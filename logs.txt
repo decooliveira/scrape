@@ -1,0 +1,373 @@
+INFO 2020-12-22 00:22:40,268 - Start running Scraper
+DEBUG 2020-12-22 00:22:40,281 - Starting new HTTPS connection (1): www.dealerrater.com
+DEBUG 2020-12-22 00:22:41,228 - https://www.dealerrater.com:443 "GET /dealer/McKaig-Chevrolet-Buick-A-Dealer-For-The-People-dealer-reviews-23685/page1 HTTP/1.1" 200 250089
+DEBUG 2020-12-22 00:22:41,682 - Starting new HTTPS connection (1): www.dealerrater.com
+DEBUG 2020-12-22 00:22:42,535 - https://www.dealerrater.com:443 "GET /dealer/McKaig-Chevrolet-Buick-A-Dealer-For-The-People-dealer-reviews-23685/page2 HTTP/1.1" 200 280863
+DEBUG 2020-12-22 00:22:43,052 - Starting new HTTPS connection (1): www.dealerrater.com
+DEBUG 2020-12-22 00:22:43,784 - https://www.dealerrater.com:443 "GET /dealer/McKaig-Chevrolet-Buick-A-Dealer-For-The-People-dealer-reviews-23685/page3 HTTP/1.1" 200 261630
+DEBUG 2020-12-22 00:22:44,333 - Starting new HTTPS connection (1): www.dealerrater.com
+DEBUG 2020-12-22 00:22:44,812 - https://www.dealerrater.com:443 "GET /dealer/McKaig-Chevrolet-Buick-A-Dealer-For-The-People-dealer-reviews-23685/page4 HTTP/1.1" 200 252212
+DEBUG 2020-12-22 00:22:45,078 - Starting new HTTPS connection (1): www.dealerrater.com
+DEBUG 2020-12-22 00:22:45,869 - https://www.dealerrater.com:443 "GET /dealer/McKaig-Chevrolet-Buick-A-Dealer-For-The-People-dealer-reviews-23685/page5 HTTP/1.1" 200 262236
+INFO 2020-12-22 00:22:46,444 - 1----------------------------------------------------------------------------------------------------
+INFO 2020-12-22 00:22:46,445 - "David VarnerI Purchased a 2020 Equinox.. David went..." - December 19, 2020 - Darrelldewyane2
+INFO 2020-12-22 00:22:46,445 - ----------------------------------------------------------------------------------------------------
+
+INFO 2020-12-22 00:22:46,445 - 2----------------------------------------------------------------------------------------------------
+INFO 2020-12-22 00:22:46,445 - "David Varner really worker hard over a couple of days to..." - December 17, 2020 - Stephanie.veaseyste 
+INFO 2020-12-22 00:22:46,445 - ----------------------------------------------------------------------------------------------------
+
+INFO 2020-12-22 00:22:46,445 - 3----------------------------------------------------------------------------------------------------
+INFO 2020-12-22 00:22:46,446 - "I’m Lou Ann Wise and I drove from Marshall, TX. Patrick..." - December 16, 2020 - louann326
+INFO 2020-12-22 00:22:46,446 - ----------------------------------------------------------------------------------------------------
+
+INFO 2020-12-22 00:45:16,487 - Start running Scraper
+DEBUG 2020-12-22 00:45:16,559 - Starting new HTTPS connection (1): www.dealerrater.com
+DEBUG 2020-12-22 00:45:17,166 - https://www.dealerrater.com:443 "GET /dealer/McKaig-Chevrolet-Buick-A-Dealer-For-The-People-dealer-reviews-23685/page1 HTTP/1.1" 200 250089
+DEBUG 2020-12-22 00:45:17,460 - Starting new HTTPS connection (1): www.dealerrater.com
+DEBUG 2020-12-22 00:45:18,145 - https://www.dealerrater.com:443 "GET /dealer/McKaig-Chevrolet-Buick-A-Dealer-For-The-People-dealer-reviews-23685/page2 HTTP/1.1" 200 280863
+DEBUG 2020-12-22 00:45:18,796 - Starting new HTTPS connection (1): www.dealerrater.com
+DEBUG 2020-12-22 00:45:19,550 - https://www.dealerrater.com:443 "GET /dealer/McKaig-Chevrolet-Buick-A-Dealer-For-The-People-dealer-reviews-23685/page3 HTTP/1.1" 200 261630
+DEBUG 2020-12-22 00:45:20,115 - Starting new HTTPS connection (1): www.dealerrater.com
+DEBUG 2020-12-22 00:45:20,986 - https://www.dealerrater.com:443 "GET /dealer/McKaig-Chevrolet-Buick-A-Dealer-For-The-People-dealer-reviews-23685/page4 HTTP/1.1" 200 252212
+DEBUG 2020-12-22 00:45:21,425 - Starting new HTTPS connection (1): www.dealerrater.com
+DEBUG 2020-12-22 00:45:22,009 - https://www.dealerrater.com:443 "GET /dealer/McKaig-Chevrolet-Buick-A-Dealer-For-The-People-dealer-reviews-23685/page5 HTTP/1.1" 200 262236
+INFO 2020-12-22 00:45:22,291 - 1----------------------------------------------------------------------------------------------------
+INFO 2020-12-22 00:45:22,291 - "David VarnerI Purchased a 2020 Equinox.. David went..." - December 19, 2020 - Darrelldewyane2
+INFO 2020-12-22 00:45:22,291 - ----------------------------------------------------------------------------------------------------
+
+INFO 2020-12-22 00:45:22,292 - 2----------------------------------------------------------------------------------------------------
+INFO 2020-12-22 00:45:22,292 - "David Varner really worker hard over a couple of days to..." - December 17, 2020 - Stephanie.veaseyste 
+INFO 2020-12-22 00:45:22,292 - ----------------------------------------------------------------------------------------------------
+
+INFO 2020-12-22 00:45:22,292 - 3----------------------------------------------------------------------------------------------------
+INFO 2020-12-22 00:45:22,292 - "I’m Lou Ann Wise and I drove from Marshall, TX. Patrick..." - December 16, 2020 - louann326
+INFO 2020-12-22 00:45:22,292 - ----------------------------------------------------------------------------------------------------
+
+INFO 2020-12-22 01:01:32,371 - Start running Scraper
+DEBUG 2020-12-22 01:01:32,390 - Starting new HTTPS connection (1): www.dealerrater.com
+DEBUG 2020-12-22 01:01:33,448 - https://www.dealerrater.com:443 "GET /dealer/McKaig-Chevrolet-Buick-A-Dealer-For-The-People-dealer-reviews-23685/page1 HTTP/1.1" 200 250089
+DEBUG 2020-12-22 01:01:33,988 - Starting new HTTPS connection (1): www.dealerrater.com
+DEBUG 2020-12-22 01:01:34,877 - https://www.dealerrater.com:443 "GET /dealer/McKaig-Chevrolet-Buick-A-Dealer-For-The-People-dealer-reviews-23685/page2 HTTP/1.1" 200 280863
+DEBUG 2020-12-22 01:01:35,415 - Starting new HTTPS connection (1): www.dealerrater.com
+DEBUG 2020-12-22 01:01:36,312 - https://www.dealerrater.com:443 "GET /dealer/McKaig-Chevrolet-Buick-A-Dealer-For-The-People-dealer-reviews-23685/page3 HTTP/1.1" 200 261630
+DEBUG 2020-12-22 01:01:36,747 - Starting new HTTPS connection (1): www.dealerrater.com
+DEBUG 2020-12-22 01:01:37,437 - https://www.dealerrater.com:443 "GET /dealer/McKaig-Chevrolet-Buick-A-Dealer-For-The-People-dealer-reviews-23685/page4 HTTP/1.1" 200 252212
+DEBUG 2020-12-22 01:01:38,037 - Starting new HTTPS connection (1): www.dealerrater.com
+DEBUG 2020-12-22 01:01:38,569 - https://www.dealerrater.com:443 "GET /dealer/McKaig-Chevrolet-Buick-A-Dealer-For-The-People-dealer-reviews-23685/page5 HTTP/1.1" 200 262236
+INFO 2020-12-22 01:01:38,857 - 1----------------------------------------------------------------------------------------------------
+INFO 2020-12-22 01:01:38,858 - "David VarnerI Purchased a 2020 Equinox.. David went..." - December 19, 2020 - Darrelldewyane2
+INFO 2020-12-22 01:01:38,858 - ----------------------------------------------------------------------------------------------------
+
+INFO 2020-12-22 01:01:38,858 - 2----------------------------------------------------------------------------------------------------
+INFO 2020-12-22 01:01:38,858 - "David Varner really worker hard over a couple of days to..." - December 17, 2020 - Stephanie.veaseyste 
+INFO 2020-12-22 01:01:38,858 - ----------------------------------------------------------------------------------------------------
+
+INFO 2020-12-22 01:01:38,858 - 3----------------------------------------------------------------------------------------------------
+INFO 2020-12-22 01:01:38,858 - "I’m Lou Ann Wise and I drove from Marshall, TX. Patrick..." - December 16, 2020 - louann326
+INFO 2020-12-22 01:01:38,858 - ----------------------------------------------------------------------------------------------------
+
+DEBUG 2020-12-22 01:01:38,864 - Starting new HTTPS connection (1): www.dealerrater.com
+DEBUG 2020-12-22 01:01:39,287 - https://www.dealerrater.com:443 "GET /dealer/McKaig-Chevrolet-Buick-A-Dealer-For-The-People-dealer-reviews-23685/page1 HTTP/1.1" 200 250089
+DEBUG 2020-12-22 01:01:39,551 - Starting new HTTPS connection (1): www.dealerrater.com
+DEBUG 2020-12-22 01:01:40,119 - https://www.dealerrater.com:443 "GET /dealer/McKaig-Chevrolet-Buick-A-Dealer-For-The-People-dealer-reviews-23685/page2 HTTP/1.1" 200 281647
+DEBUG 2020-12-22 01:01:40,405 - Starting new HTTPS connection (1): www.dealerrater.com
+DEBUG 2020-12-22 01:01:40,873 - https://www.dealerrater.com:443 "GET /dealer/McKaig-Chevrolet-Buick-A-Dealer-For-The-People-dealer-reviews-23685/page3 HTTP/1.1" 200 261630
+DEBUG 2020-12-22 01:01:41,467 - Starting new HTTPS connection (1): www.dealerrater.com
+DEBUG 2020-12-22 01:01:42,045 - https://www.dealerrater.com:443 "GET /dealer/McKaig-Chevrolet-Buick-A-Dealer-For-The-People-dealer-reviews-23685/page4 HTTP/1.1" 200 252996
+DEBUG 2020-12-22 01:01:42,304 - Starting new HTTPS connection (1): www.dealerrater.com
+DEBUG 2020-12-22 01:01:43,274 - https://www.dealerrater.com:443 "GET /dealer/McKaig-Chevrolet-Buick-A-Dealer-For-The-People-dealer-reviews-23685/page5 HTTP/1.1" 200 262236
+INFO 2020-12-22 01:04:05,041 - Start running Scraper
+DEBUG 2020-12-22 01:04:05,203 - Starting new HTTPS connection (1): www.dealerrater.com
+DEBUG 2020-12-22 01:04:05,712 - https://www.dealerrater.com:443 "GET /dealer/McKaig-Chevrolet-Buick-A-Dealer-For-The-People-dealer-reviews-23685/page1 HTTP/1.1" 200 250089
+DEBUG 2020-12-22 01:04:06,353 - Starting new HTTPS connection (1): www.dealerrater.com
+DEBUG 2020-12-22 01:04:06,781 - https://www.dealerrater.com:443 "GET /dealer/McKaig-Chevrolet-Buick-A-Dealer-For-The-People-dealer-reviews-23685/page2 HTTP/1.1" 200 280863
+DEBUG 2020-12-22 01:04:07,448 - Starting new HTTPS connection (1): www.dealerrater.com
+DEBUG 2020-12-22 01:04:08,166 - https://www.dealerrater.com:443 "GET /dealer/McKaig-Chevrolet-Buick-A-Dealer-For-The-People-dealer-reviews-23685/page3 HTTP/1.1" 200 261630
+DEBUG 2020-12-22 01:04:08,760 - Starting new HTTPS connection (1): www.dealerrater.com
+DEBUG 2020-12-22 01:04:09,396 - https://www.dealerrater.com:443 "GET /dealer/McKaig-Chevrolet-Buick-A-Dealer-For-The-People-dealer-reviews-23685/page4 HTTP/1.1" 200 252212
+DEBUG 2020-12-22 01:04:09,865 - Starting new HTTPS connection (1): www.dealerrater.com
+DEBUG 2020-12-22 01:04:10,624 - https://www.dealerrater.com:443 "GET /dealer/McKaig-Chevrolet-Buick-A-Dealer-For-The-People-dealer-reviews-23685/page5 HTTP/1.1" 200 262236
+INFO 2020-12-22 01:04:11,116 - 1----------------------------------------------------------------------------------------------------
+INFO 2020-12-22 01:04:11,116 - "David VarnerI Purchased a 2020 Equinox.. David went..." - December 19, 2020 - Darrelldewyane2
+INFO 2020-12-22 01:04:11,116 - ----------------------------------------------------------------------------------------------------
+
+INFO 2020-12-22 01:04:11,116 - 2----------------------------------------------------------------------------------------------------
+INFO 2020-12-22 01:04:11,116 - "David Varner really worker hard over a couple of days to..." - December 17, 2020 - Stephanie.veaseyste 
+INFO 2020-12-22 01:04:11,116 - ----------------------------------------------------------------------------------------------------
+
+INFO 2020-12-22 01:04:11,116 - 3----------------------------------------------------------------------------------------------------
+INFO 2020-12-22 01:04:11,117 - "I’m Lou Ann Wise and I drove from Marshall, TX. Patrick..." - December 16, 2020 - louann326
+INFO 2020-12-22 01:04:11,117 - ----------------------------------------------------------------------------------------------------
+
+DEBUG 2020-12-22 01:04:11,121 - Starting new HTTPS connection (1): www.dealerrater.com
+DEBUG 2020-12-22 01:04:11,573 - https://www.dealerrater.com:443 "GET /dealer/McKaig-Chevrolet-Buick-A-Dealer-For-The-People-dealer-reviews-23685/page1 HTTP/1.1" 200 250089
+DEBUG 2020-12-22 01:04:11,830 - Starting new HTTPS connection (1): www.dealerrater.com
+DEBUG 2020-12-22 01:04:12,371 - https://www.dealerrater.com:443 "GET /dealer/McKaig-Chevrolet-Buick-A-Dealer-For-The-People-dealer-reviews-23685/page2 HTTP/1.1" 200 280863
+DEBUG 2020-12-22 01:04:12,709 - Starting new HTTPS connection (1): www.dealerrater.com
+DEBUG 2020-12-22 01:04:13,288 - https://www.dealerrater.com:443 "GET /dealer/McKaig-Chevrolet-Buick-A-Dealer-For-The-People-dealer-reviews-23685/page3 HTTP/1.1" 200 261630
+DEBUG 2020-12-22 01:04:13,761 - Starting new HTTPS connection (1): www.dealerrater.com
+DEBUG 2020-12-22 01:04:14,620 - https://www.dealerrater.com:443 "GET /dealer/McKaig-Chevrolet-Buick-A-Dealer-For-The-People-dealer-reviews-23685/page4 HTTP/1.1" 200 252212
+DEBUG 2020-12-22 01:04:15,011 - Starting new HTTPS connection (1): www.dealerrater.com
+DEBUG 2020-12-22 01:04:15,643 - https://www.dealerrater.com:443 "GET /dealer/McKaig-Chevrolet-Buick-A-Dealer-For-The-People-dealer-reviews-23685/page5 HTTP/1.1" 200 262236
+INFO 2020-12-22 01:05:42,314 - Start running Scraper
+DEBUG 2020-12-22 01:05:45,629 - Starting new HTTPS connection (1): www.dealerrater.com
+DEBUG 2020-12-22 01:05:46,168 - https://www.dealerrater.com:443 "GET /dealer/McKaig-Chevrolet-Buick-A-Dealer-For-The-People-dealer-reviews-23685/page1 HTTP/1.1" 200 250089
+DEBUG 2020-12-22 01:05:46,449 - Starting new HTTPS connection (1): www.dealerrater.com
+DEBUG 2020-12-22 01:05:47,043 - https://www.dealerrater.com:443 "GET /dealer/McKaig-Chevrolet-Buick-A-Dealer-For-The-People-dealer-reviews-23685/page2 HTTP/1.1" 200 281647
+DEBUG 2020-12-22 01:05:47,688 - Starting new HTTPS connection (1): www.dealerrater.com
+DEBUG 2020-12-22 01:05:48,567 - https://www.dealerrater.com:443 "GET /dealer/McKaig-Chevrolet-Buick-A-Dealer-For-The-People-dealer-reviews-23685/page3 HTTP/1.1" 200 261630
+DEBUG 2020-12-22 01:05:49,042 - Starting new HTTPS connection (1): www.dealerrater.com
+DEBUG 2020-12-22 01:05:49,700 - https://www.dealerrater.com:443 "GET /dealer/McKaig-Chevrolet-Buick-A-Dealer-For-The-People-dealer-reviews-23685/page4 HTTP/1.1" 200 252212
+DEBUG 2020-12-22 01:05:50,338 - Starting new HTTPS connection (1): www.dealerrater.com
+DEBUG 2020-12-22 01:05:50,879 - https://www.dealerrater.com:443 "GET /dealer/McKaig-Chevrolet-Buick-A-Dealer-For-The-People-dealer-reviews-23685/page5 HTTP/1.1" 200 263020
+INFO 2020-12-22 01:05:51,141 - 1----------------------------------------------------------------------------------------------------
+INFO 2020-12-22 01:05:51,141 - "David VarnerI Purchased a 2020 Equinox.. David went..." - December 19, 2020 - Darrelldewyane2
+INFO 2020-12-22 01:05:51,141 - ----------------------------------------------------------------------------------------------------
+
+INFO 2020-12-22 01:05:51,141 - 2----------------------------------------------------------------------------------------------------
+INFO 2020-12-22 01:05:51,142 - "David Varner really worker hard over a couple of days to..." - December 17, 2020 - Stephanie.veaseyste 
+INFO 2020-12-22 01:05:51,142 - ----------------------------------------------------------------------------------------------------
+
+INFO 2020-12-22 01:05:51,142 - 3----------------------------------------------------------------------------------------------------
+INFO 2020-12-22 01:05:51,142 - "I’m Lou Ann Wise and I drove from Marshall, TX. Patrick..." - December 16, 2020 - louann326
+INFO 2020-12-22 01:05:51,142 - ----------------------------------------------------------------------------------------------------
+
+DEBUG 2020-12-22 01:05:51,148 - Starting new HTTPS connection (1): www.dealerrater.com
+DEBUG 2020-12-22 01:05:51,552 - https://www.dealerrater.com:443 "GET /dealer/McKaig-Chevrolet-Buick-A-Dealer-For-The-People-dealer-reviews-23685/page1 HTTP/1.1" 200 250089
+DEBUG 2020-12-22 01:05:52,179 - Starting new HTTPS connection (1): www.dealerrater.com
+DEBUG 2020-12-22 01:05:52,824 - https://www.dealerrater.com:443 "GET /dealer/McKaig-Chevrolet-Buick-A-Dealer-For-The-People-dealer-reviews-23685/page2 HTTP/1.1" 200 280863
+DEBUG 2020-12-22 01:05:53,258 - Starting new HTTPS connection (1): www.dealerrater.com
+DEBUG 2020-12-22 01:06:12,887 - https://www.dealerrater.com:443 "GET /dealer/McKaig-Chevrolet-Buick-A-Dealer-For-The-People-dealer-reviews-23685/page3 HTTP/1.1" 200 261630
+DEBUG 2020-12-22 01:06:13,510 - Starting new HTTPS connection (1): www.dealerrater.com
+DEBUG 2020-12-22 01:06:14,119 - https://www.dealerrater.com:443 "GET /dealer/McKaig-Chevrolet-Buick-A-Dealer-For-The-People-dealer-reviews-23685/page4 HTTP/1.1" 200 252212
+DEBUG 2020-12-22 01:06:15,118 - Starting new HTTPS connection (1): www.dealerrater.com
+DEBUG 2020-12-22 01:06:15,654 - https://www.dealerrater.com:443 "GET /dealer/McKaig-Chevrolet-Buick-A-Dealer-For-The-People-dealer-reviews-23685/page5 HTTP/1.1" 200 262236
+INFO 2020-12-22 01:11:38,804 - Start running Scraper
+DEBUG 2020-12-22 01:11:38,859 - Starting new HTTPS connection (1): www.dealerrater.com
+DEBUG 2020-12-22 01:11:39,950 - https://www.dealerrater.com:443 "GET /dealer/McKaig-Chevrolet-Buick-A-Dealer-For-The-People-dealer-reviews-23685/page1 HTTP/1.1" 200 250089
+DEBUG 2020-12-22 01:11:40,380 - Starting new HTTPS connection (1): www.dealerrater.com
+DEBUG 2020-12-22 01:11:41,316 - https://www.dealerrater.com:443 "GET /dealer/McKaig-Chevrolet-Buick-A-Dealer-For-The-People-dealer-reviews-23685/page2 HTTP/1.1" 200 280863
+DEBUG 2020-12-22 01:11:41,894 - Starting new HTTPS connection (1): www.dealerrater.com
+DEBUG 2020-12-22 01:11:42,404 - https://www.dealerrater.com:443 "GET /dealer/McKaig-Chevrolet-Buick-A-Dealer-For-The-People-dealer-reviews-23685/page3 HTTP/1.1" 200 261630
+DEBUG 2020-12-22 01:11:42,853 - Starting new HTTPS connection (1): www.dealerrater.com
+DEBUG 2020-12-22 01:11:43,326 - https://www.dealerrater.com:443 "GET /dealer/McKaig-Chevrolet-Buick-A-Dealer-For-The-People-dealer-reviews-23685/page4 HTTP/1.1" 200 252212
+DEBUG 2020-12-22 01:11:43,963 - Starting new HTTPS connection (1): www.dealerrater.com
+DEBUG 2020-12-22 01:11:44,965 - https://www.dealerrater.com:443 "GET /dealer/McKaig-Chevrolet-Buick-A-Dealer-For-The-People-dealer-reviews-23685/page5 HTTP/1.1" 200 262236
+INFO 2020-12-22 01:11:45,375 - 1----------------------------------------------------------------------------------------------------
+INFO 2020-12-22 01:11:45,376 - "David VarnerI Purchased a 2020 Equinox.. David went..." - December 19, 2020 - Darrelldewyane2
+INFO 2020-12-22 01:11:45,376 - ----------------------------------------------------------------------------------------------------
+
+INFO 2020-12-22 01:11:45,376 - 2----------------------------------------------------------------------------------------------------
+INFO 2020-12-22 01:11:45,376 - "David Varner really worker hard over a couple of days to..." - December 17, 2020 - Stephanie.veaseyste 
+INFO 2020-12-22 01:11:45,376 - ----------------------------------------------------------------------------------------------------
+
+INFO 2020-12-22 01:11:45,376 - 3----------------------------------------------------------------------------------------------------
+INFO 2020-12-22 01:11:45,377 - "I’m Lou Ann Wise and I drove from Marshall, TX. Patrick..." - December 16, 2020 - louann326
+INFO 2020-12-22 01:11:45,377 - ----------------------------------------------------------------------------------------------------
+
+DEBUG 2020-12-22 01:11:45,382 - Starting new HTTPS connection (1): www.dealerrater.com
+DEBUG 2020-12-22 01:11:46,398 - https://www.dealerrater.com:443 "GET /dealer/McKaig-Chevrolet-Buick-A-Dealer-For-The-People-dealer-reviews-23685/page1 HTTP/1.1" 200 250089
+DEBUG 2020-12-22 01:11:46,794 - Starting new HTTPS connection (1): www.dealerrater.com
+DEBUG 2020-12-22 01:11:47,835 - https://www.dealerrater.com:443 "GET /dealer/McKaig-Chevrolet-Buick-A-Dealer-For-The-People-dealer-reviews-23685/page2 HTTP/1.1" 200 280863
+DEBUG 2020-12-22 01:11:48,370 - Starting new HTTPS connection (1): www.dealerrater.com
+DEBUG 2020-12-22 01:11:48,856 - https://www.dealerrater.com:443 "GET /dealer/McKaig-Chevrolet-Buick-A-Dealer-For-The-People-dealer-reviews-23685/page3 HTTP/1.1" 200 261630
+DEBUG 2020-12-22 01:11:49,195 - Starting new HTTPS connection (1): www.dealerrater.com
+DEBUG 2020-12-22 01:11:50,132 - https://www.dealerrater.com:443 "GET /dealer/McKaig-Chevrolet-Buick-A-Dealer-For-The-People-dealer-reviews-23685/page4 HTTP/1.1" 200 252212
+DEBUG 2020-12-22 01:11:50,655 - Starting new HTTPS connection (1): www.dealerrater.com
+INFO 2020-12-22 01:12:00,332 - Start running Scraper
+DEBUG 2020-12-22 01:12:00,344 - Starting new HTTPS connection (1): www.dealerrater.com
+DEBUG 2020-12-22 01:12:01,255 - https://www.dealerrater.com:443 "GET /dealer/McKaig-Chevrolet-Buick-A-Dealer-For-The-People-dealer-reviews-23685/page1 HTTP/1.1" 200 250873
+DEBUG 2020-12-22 01:12:01,648 - Starting new HTTPS connection (1): www.dealerrater.com
+DEBUG 2020-12-22 01:12:02,578 - https://www.dealerrater.com:443 "GET /dealer/McKaig-Chevrolet-Buick-A-Dealer-For-The-People-dealer-reviews-23685/page2 HTTP/1.1" 200 280863
+DEBUG 2020-12-22 01:12:03,021 - Starting new HTTPS connection (1): www.dealerrater.com
+DEBUG 2020-12-22 01:12:03,498 - https://www.dealerrater.com:443 "GET /dealer/McKaig-Chevrolet-Buick-A-Dealer-For-The-People-dealer-reviews-23685/page3 HTTP/1.1" 200 261630
+DEBUG 2020-12-22 01:12:04,113 - Starting new HTTPS connection (1): www.dealerrater.com
+DEBUG 2020-12-22 01:12:04,913 - https://www.dealerrater.com:443 "GET /dealer/McKaig-Chevrolet-Buick-A-Dealer-For-The-People-dealer-reviews-23685/page4 HTTP/1.1" 200 252212
+DEBUG 2020-12-22 01:12:05,425 - Starting new HTTPS connection (1): www.dealerrater.com
+DEBUG 2020-12-22 01:12:06,485 - https://www.dealerrater.com:443 "GET /dealer/McKaig-Chevrolet-Buick-A-Dealer-For-The-People-dealer-reviews-23685/page5 HTTP/1.1" 200 262236
+INFO 2020-12-22 01:12:06,980 - 1----------------------------------------------------------------------------------------------------
+INFO 2020-12-22 01:12:06,980 - "David VarnerI Purchased a 2020 Equinox.. David went..." - December 19, 2020 - Darrelldewyane2
+INFO 2020-12-22 01:12:06,980 - ----------------------------------------------------------------------------------------------------
+
+INFO 2020-12-22 01:12:06,980 - 2----------------------------------------------------------------------------------------------------
+INFO 2020-12-22 01:12:06,980 - "David Varner really worker hard over a couple of days to..." - December 17, 2020 - Stephanie.veaseyste 
+INFO 2020-12-22 01:12:06,980 - ----------------------------------------------------------------------------------------------------
+
+INFO 2020-12-22 01:12:06,980 - 3----------------------------------------------------------------------------------------------------
+INFO 2020-12-22 01:12:06,981 - "I’m Lou Ann Wise and I drove from Marshall, TX. Patrick..." - December 16, 2020 - louann326
+INFO 2020-12-22 01:12:06,981 - ----------------------------------------------------------------------------------------------------
+
+DEBUG 2020-12-22 01:12:06,987 - Starting new HTTPS connection (1): www.dealerrater.com
+DEBUG 2020-12-22 01:12:07,695 - https://www.dealerrater.com:443 "GET /dealer/McKaig-Chevrolet-Buick-A-Dealer-For-The-People-dealer-reviews-23685/page1 HTTP/1.1" 200 250089
+DEBUG 2020-12-22 01:12:08,429 - Starting new HTTPS connection (1): www.dealerrater.com
+DEBUG 2020-12-22 01:12:09,263 - https://www.dealerrater.com:443 "GET /dealer/McKaig-Chevrolet-Buick-A-Dealer-For-The-People-dealer-reviews-23685/page2 HTTP/1.1" 200 280863
+DEBUG 2020-12-22 01:12:09,720 - Starting new HTTPS connection (1): www.dealerrater.com
+DEBUG 2020-12-22 01:12:10,166 - https://www.dealerrater.com:443 "GET /dealer/McKaig-Chevrolet-Buick-A-Dealer-For-The-People-dealer-reviews-23685/page3 HTTP/1.1" 200 261630
+DEBUG 2020-12-22 01:12:10,463 - Starting new HTTPS connection (1): www.dealerrater.com
+DEBUG 2020-12-22 01:12:11,281 - https://www.dealerrater.com:443 "GET /dealer/McKaig-Chevrolet-Buick-A-Dealer-For-The-People-dealer-reviews-23685/page4 HTTP/1.1" 200 252212
+DEBUG 2020-12-22 01:12:13,048 - Starting new HTTPS connection (1): www.dealerrater.com
+DEBUG 2020-12-22 01:12:13,908 - https://www.dealerrater.com:443 "GET /dealer/McKaig-Chevrolet-Buick-A-Dealer-For-The-People-dealer-reviews-23685/page5 HTTP/1.1" 200 262236
+INFO 2020-12-22 01:12:51,580 - Start running Scraper
+DEBUG 2020-12-22 01:12:51,593 - Starting new HTTPS connection (1): www.dealerrater.com
+DEBUG 2020-12-22 01:12:52,539 - https://www.dealerrater.com:443 "GET /dealer/McKaig-Chevrolet-Buick-A-Dealer-For-The-People-dealer-reviews-23685/page1 HTTP/1.1" 200 250089
+DEBUG 2020-12-22 01:12:53,040 - Starting new HTTPS connection (1): www.dealerrater.com
+DEBUG 2020-12-22 01:12:53,978 - https://www.dealerrater.com:443 "GET /dealer/McKaig-Chevrolet-Buick-A-Dealer-For-The-People-dealer-reviews-23685/page2 HTTP/1.1" 200 280863
+DEBUG 2020-12-22 01:12:54,709 - Starting new HTTPS connection (1): www.dealerrater.com
+DEBUG 2020-12-22 01:12:55,824 - https://www.dealerrater.com:443 "GET /dealer/McKaig-Chevrolet-Buick-A-Dealer-For-The-People-dealer-reviews-23685/page3 HTTP/1.1" 200 261630
+DEBUG 2020-12-22 01:12:56,580 - Starting new HTTPS connection (1): www.dealerrater.com
+DEBUG 2020-12-22 01:12:57,073 - https://www.dealerrater.com:443 "GET /dealer/McKaig-Chevrolet-Buick-A-Dealer-For-The-People-dealer-reviews-23685/page4 HTTP/1.1" 200 252212
+DEBUG 2020-12-22 01:12:57,392 - Starting new HTTPS connection (1): www.dealerrater.com
+DEBUG 2020-12-22 01:12:58,285 - https://www.dealerrater.com:443 "GET /dealer/McKaig-Chevrolet-Buick-A-Dealer-For-The-People-dealer-reviews-23685/page5 HTTP/1.1" 200 262236
+INFO 2020-12-22 01:12:58,868 - 1----------------------------------------------------------------------------------------------------
+INFO 2020-12-22 01:12:58,868 - "David VarnerI Purchased a 2020 Equinox.. David went..." - December 19, 2020 - Darrelldewyane2
+INFO 2020-12-22 01:12:58,868 - ----------------------------------------------------------------------------------------------------
+
+INFO 2020-12-22 01:12:58,868 - 2----------------------------------------------------------------------------------------------------
+INFO 2020-12-22 01:12:58,868 - "David Varner really worker hard over a couple of days to..." - December 17, 2020 - Stephanie.veaseyste 
+INFO 2020-12-22 01:12:58,868 - ----------------------------------------------------------------------------------------------------
+
+INFO 2020-12-22 01:12:58,868 - 3----------------------------------------------------------------------------------------------------
+INFO 2020-12-22 01:12:58,868 - "I’m Lou Ann Wise and I drove from Marshall, TX. Patrick..." - December 16, 2020 - louann326
+INFO 2020-12-22 01:12:58,868 - ----------------------------------------------------------------------------------------------------
+
+DEBUG 2020-12-22 01:12:58,873 - Starting new HTTPS connection (1): www.dealerrater.com
+DEBUG 2020-12-22 01:12:59,408 - https://www.dealerrater.com:443 "GET /dealer/McKaig-Chevrolet-Buick-A-Dealer-For-The-People-dealer-reviews-23685/page1 HTTP/1.1" 200 250873
+DEBUG 2020-12-22 01:12:59,992 - Starting new HTTPS connection (1): www.dealerrater.com
+DEBUG 2020-12-22 01:13:00,539 - https://www.dealerrater.com:443 "GET /dealer/McKaig-Chevrolet-Buick-A-Dealer-For-The-People-dealer-reviews-23685/page2 HTTP/1.1" 200 280863
+DEBUG 2020-12-22 01:13:01,482 - Starting new HTTPS connection (1): www.dealerrater.com
+DEBUG 2020-12-22 01:13:02,022 - https://www.dealerrater.com:443 "GET /dealer/McKaig-Chevrolet-Buick-A-Dealer-For-The-People-dealer-reviews-23685/page3 HTTP/1.1" 200 261630
+DEBUG 2020-12-22 01:13:02,363 - Starting new HTTPS connection (1): www.dealerrater.com
+DEBUG 2020-12-22 01:13:02,803 - https://www.dealerrater.com:443 "GET /dealer/McKaig-Chevrolet-Buick-A-Dealer-For-The-People-dealer-reviews-23685/page4 HTTP/1.1" 200 252212
+DEBUG 2020-12-22 01:13:03,386 - Starting new HTTPS connection (1): www.dealerrater.com
+DEBUG 2020-12-22 01:13:04,164 - https://www.dealerrater.com:443 "GET /dealer/McKaig-Chevrolet-Buick-A-Dealer-For-The-People-dealer-reviews-23685/page5 HTTP/1.1" 200 262236
+INFO 2020-12-22 01:13:21,571 - Start running Scraper
+DEBUG 2020-12-22 01:13:21,586 - Starting new HTTPS connection (1): www.dealerrater.com
+DEBUG 2020-12-22 01:13:22,399 - https://www.dealerrater.com:443 "GET /dealer/McKaig-Chevrolet-Buick-A-Dealer-For-The-People-dealer-reviews-23685/page1 HTTP/1.1" 200 250089
+DEBUG 2020-12-22 01:13:22,895 - Starting new HTTPS connection (1): www.dealerrater.com
+DEBUG 2020-12-22 01:13:23,731 - https://www.dealerrater.com:443 "GET /dealer/McKaig-Chevrolet-Buick-A-Dealer-For-The-People-dealer-reviews-23685/page2 HTTP/1.1" 200 280863
+DEBUG 2020-12-22 01:13:24,240 - Starting new HTTPS connection (1): www.dealerrater.com
+DEBUG 2020-12-22 01:13:25,061 - https://www.dealerrater.com:443 "GET /dealer/McKaig-Chevrolet-Buick-A-Dealer-For-The-People-dealer-reviews-23685/page3 HTTP/1.1" 200 261630
+DEBUG 2020-12-22 01:13:25,543 - Starting new HTTPS connection (1): www.dealerrater.com
+DEBUG 2020-12-22 01:13:26,394 - https://www.dealerrater.com:443 "GET /dealer/McKaig-Chevrolet-Buick-A-Dealer-For-The-People-dealer-reviews-23685/page4 HTTP/1.1" 200 252212
+DEBUG 2020-12-22 01:13:26,817 - Starting new HTTPS connection (1): www.dealerrater.com
+DEBUG 2020-12-22 01:13:27,316 - https://www.dealerrater.com:443 "GET /dealer/McKaig-Chevrolet-Buick-A-Dealer-For-The-People-dealer-reviews-23685/page5 HTTP/1.1" 200 262236
+INFO 2020-12-22 01:13:27,630 - 1----------------------------------------------------------------------------------------------------
+INFO 2020-12-22 01:13:27,630 - "David VarnerI Purchased a 2020 Equinox.. David went..." - December 19, 2020 - Darrelldewyane2
+INFO 2020-12-22 01:13:27,630 - ----------------------------------------------------------------------------------------------------
+
+INFO 2020-12-22 01:13:27,630 - 2----------------------------------------------------------------------------------------------------
+INFO 2020-12-22 01:13:27,631 - "David Varner really worker hard over a couple of days to..." - December 17, 2020 - Stephanie.veaseyste 
+INFO 2020-12-22 01:13:27,631 - ----------------------------------------------------------------------------------------------------
+
+INFO 2020-12-22 01:13:27,631 - 3----------------------------------------------------------------------------------------------------
+INFO 2020-12-22 01:13:27,631 - "I’m Lou Ann Wise and I drove from Marshall, TX. Patrick..." - December 16, 2020 - louann326
+INFO 2020-12-22 01:13:27,631 - ----------------------------------------------------------------------------------------------------
+
+DEBUG 2020-12-22 01:13:27,635 - Starting new HTTPS connection (1): www.dealerrater.com
+DEBUG 2020-12-22 01:13:28,135 - https://www.dealerrater.com:443 "GET /dealer/McKaig-Chevrolet-Buick-A-Dealer-For-The-People-dealer-reviews-23685/page1 HTTP/1.1" 200 250089
+DEBUG 2020-12-22 01:13:28,425 - Starting new HTTPS connection (1): www.dealerrater.com
+DEBUG 2020-12-22 01:13:29,262 - https://www.dealerrater.com:443 "GET /dealer/McKaig-Chevrolet-Buick-A-Dealer-For-The-People-dealer-reviews-23685/page2 HTTP/1.1" 200 280863
+DEBUG 2020-12-22 01:13:29,745 - Starting new HTTPS connection (1): www.dealerrater.com
+DEBUG 2020-12-22 01:13:30,542 - https://www.dealerrater.com:443 "GET /dealer/McKaig-Chevrolet-Buick-A-Dealer-For-The-People-dealer-reviews-23685/page3 HTTP/1.1" 200 261630
+DEBUG 2020-12-22 01:13:31,037 - Starting new HTTPS connection (1): www.dealerrater.com
+DEBUG 2020-12-22 01:13:31,826 - https://www.dealerrater.com:443 "GET /dealer/McKaig-Chevrolet-Buick-A-Dealer-For-The-People-dealer-reviews-23685/page4 HTTP/1.1" 200 252212
+DEBUG 2020-12-22 01:13:32,316 - Starting new HTTPS connection (1): www.dealerrater.com
+DEBUG 2020-12-22 01:13:33,152 - https://www.dealerrater.com:443 "GET /dealer/McKaig-Chevrolet-Buick-A-Dealer-For-The-People-dealer-reviews-23685/page5 HTTP/1.1" 200 262236
+DEBUG 2020-12-22 01:13:33,599 - Starting new HTTPS connection (1): www.dealerrater.com
+DEBUG 2020-12-22 01:13:34,188 - https://www.dealerrater.com:443 "GET /dealer/McKaig-Chevrolet-Buick-A-Dealer-For-The-People-dealer-reviews-23685/page1 HTTP/1.1" 200 250873
+INFO 2020-12-22 01:19:18,619 - Start running Scraper
+DEBUG 2020-12-22 01:19:34,374 - Starting new HTTPS connection (1): www.dealerrater.com
+DEBUG 2020-12-22 01:19:35,396 - https://www.dealerrater.com:443 "GET /dealer/McKaig-Chevrolet-Buick-A-Dealer-For-The-People-dealer-reviews-23685/page1 HTTP/1.1" 200 250089
+DEBUG 2020-12-22 01:19:35,905 - Starting new HTTPS connection (1): www.dealerrater.com
+DEBUG 2020-12-22 01:19:37,192 - https://www.dealerrater.com:443 "GET /dealer/McKaig-Chevrolet-Buick-A-Dealer-For-The-People-dealer-reviews-23685/page2 HTTP/1.1" 200 280863
+DEBUG 2020-12-22 01:19:37,609 - Starting new HTTPS connection (1): www.dealerrater.com
+DEBUG 2020-12-22 01:19:38,825 - https://www.dealerrater.com:443 "GET /dealer/McKaig-Chevrolet-Buick-A-Dealer-For-The-People-dealer-reviews-23685/page3 HTTP/1.1" 200 261630
+DEBUG 2020-12-22 01:19:39,524 - Starting new HTTPS connection (1): www.dealerrater.com
+DEBUG 2020-12-22 01:19:40,662 - https://www.dealerrater.com:443 "GET /dealer/McKaig-Chevrolet-Buick-A-Dealer-For-The-People-dealer-reviews-23685/page4 HTTP/1.1" 200 252212
+DEBUG 2020-12-22 01:19:41,280 - Starting new HTTPS connection (1): www.dealerrater.com
+DEBUG 2020-12-22 01:19:42,307 - https://www.dealerrater.com:443 "GET /dealer/McKaig-Chevrolet-Buick-A-Dealer-For-The-People-dealer-reviews-23685/page5 HTTP/1.1" 200 262236
+INFO 2020-12-22 01:19:42,972 - 1----------------------------------------------------------------------------------------------------
+INFO 2020-12-22 01:19:42,972 - "David VarnerI Purchased a 2020 Equinox.. David went..." - December 19, 2020 - Darrelldewyane2
+INFO 2020-12-22 01:19:42,972 - ----------------------------------------------------------------------------------------------------
+
+INFO 2020-12-22 01:19:42,972 - 2----------------------------------------------------------------------------------------------------
+INFO 2020-12-22 01:19:42,972 - "David Varner really worker hard over a couple of days to..." - December 17, 2020 - Stephanie.veaseyste 
+INFO 2020-12-22 01:19:42,972 - ----------------------------------------------------------------------------------------------------
+
+INFO 2020-12-22 01:19:42,972 - 3----------------------------------------------------------------------------------------------------
+INFO 2020-12-22 01:19:42,972 - "I’m Lou Ann Wise and I drove from Marshall, TX. Patrick..." - December 16, 2020 - louann326
+INFO 2020-12-22 01:19:42,973 - ----------------------------------------------------------------------------------------------------
+
+DEBUG 2020-12-22 01:19:42,977 - Starting new HTTPS connection (1): www.dealerrater.com
+DEBUG 2020-12-22 01:19:43,940 - https://www.dealerrater.com:443 "GET /dealer/McKaig-Chevrolet-Buick-A-Dealer-For-The-People-dealer-reviews-23685/page1 HTTP/1.1" 200 250089
+DEBUG 2020-12-22 01:19:44,347 - Starting new HTTPS connection (1): www.dealerrater.com
+DEBUG 2020-12-22 01:19:44,842 - https://www.dealerrater.com:443 "GET /dealer/McKaig-Chevrolet-Buick-A-Dealer-For-The-People-dealer-reviews-23685/page2 HTTP/1.1" 200 280863
+DEBUG 2020-12-22 01:19:45,141 - Starting new HTTPS connection (1): www.dealerrater.com
+DEBUG 2020-12-22 01:19:46,201 - https://www.dealerrater.com:443 "GET /dealer/McKaig-Chevrolet-Buick-A-Dealer-For-The-People-dealer-reviews-23685/page3 HTTP/1.1" 200 262414
+DEBUG 2020-12-22 01:19:46,618 - Starting new HTTPS connection (1): www.dealerrater.com
+DEBUG 2020-12-22 01:19:47,524 - https://www.dealerrater.com:443 "GET /dealer/McKaig-Chevrolet-Buick-A-Dealer-For-The-People-dealer-reviews-23685/page4 HTTP/1.1" 200 252996
+DEBUG 2020-12-22 01:19:47,967 - Starting new HTTPS connection (1): www.dealerrater.com
+DEBUG 2020-12-22 01:19:48,958 - https://www.dealerrater.com:443 "GET /dealer/McKaig-Chevrolet-Buick-A-Dealer-For-The-People-dealer-reviews-23685/page5 HTTP/1.1" 200 262236
+DEBUG 2020-12-22 01:19:49,405 - Starting new HTTPS connection (1): www.dealerrater.com
+DEBUG 2020-12-22 01:19:50,289 - https://www.dealerrater.com:443 "GET /dealer/McKaig-Chevrolet-Buick-A-Dealer-For-The-People-dealer-reviews-23685/page1 HTTP/1.1" 200 250089
+INFO 2020-12-22 01:20:02,956 - Start running Scraper
+DEBUG 2020-12-22 01:20:02,968 - Starting new HTTPS connection (1): www.dealerrater.com
+DEBUG 2020-12-22 01:20:03,913 - https://www.dealerrater.com:443 "GET /dealer/McKaig-Chevrolet-Buick-A-Dealer-For-The-People-dealer-reviews-23685/page1 HTTP/1.1" 200 250089
+DEBUG 2020-12-22 01:20:04,311 - Starting new HTTPS connection (1): www.dealerrater.com
+DEBUG 2020-12-22 01:20:05,188 - https://www.dealerrater.com:443 "GET /dealer/McKaig-Chevrolet-Buick-A-Dealer-For-The-People-dealer-reviews-23685/page2 HTTP/1.1" 200 280863
+DEBUG 2020-12-22 01:20:06,032 - Starting new HTTPS connection (1): www.dealerrater.com
+DEBUG 2020-12-22 01:20:06,980 - https://www.dealerrater.com:443 "GET /dealer/McKaig-Chevrolet-Buick-A-Dealer-For-The-People-dealer-reviews-23685/page3 HTTP/1.1" 200 261630
+DEBUG 2020-12-22 01:20:07,477 - Starting new HTTPS connection (1): www.dealerrater.com
+DEBUG 2020-12-22 01:20:08,004 - https://www.dealerrater.com:443 "GET /dealer/McKaig-Chevrolet-Buick-A-Dealer-For-The-People-dealer-reviews-23685/page4 HTTP/1.1" 200 252212
+DEBUG 2020-12-22 01:20:08,387 - Starting new HTTPS connection (1): www.dealerrater.com
+DEBUG 2020-12-22 01:20:09,237 - https://www.dealerrater.com:443 "GET /dealer/McKaig-Chevrolet-Buick-A-Dealer-For-The-People-dealer-reviews-23685/page5 HTTP/1.1" 200 262236
+INFO 2020-12-22 01:20:09,670 - 1----------------------------------------------------------------------------------------------------
+INFO 2020-12-22 01:20:09,670 - "David VarnerI Purchased a 2020 Equinox.. David went..." - December 19, 2020 - Darrelldewyane2
+INFO 2020-12-22 01:20:09,671 - ----------------------------------------------------------------------------------------------------
+
+INFO 2020-12-22 01:20:09,671 - 2----------------------------------------------------------------------------------------------------
+INFO 2020-12-22 01:20:09,671 - "David Varner really worker hard over a couple of days to..." - December 17, 2020 - Stephanie.veaseyste 
+INFO 2020-12-22 01:20:09,671 - ----------------------------------------------------------------------------------------------------
+
+INFO 2020-12-22 01:20:09,671 - 3----------------------------------------------------------------------------------------------------
+INFO 2020-12-22 01:20:09,671 - "I’m Lou Ann Wise and I drove from Marshall, TX. Patrick..." - December 16, 2020 - louann326
+INFO 2020-12-22 01:20:09,671 - ----------------------------------------------------------------------------------------------------
+
+DEBUG 2020-12-22 01:20:09,675 - Starting new HTTPS connection (1): www.dealerrater.com
+DEBUG 2020-12-22 01:20:10,461 - https://www.dealerrater.com:443 "GET /dealer/McKaig-Chevrolet-Buick-A-Dealer-For-The-People-dealer-reviews-23685/page1 HTTP/1.1" 200 250089
+DEBUG 2020-12-22 01:20:11,002 - Starting new HTTPS connection (1): www.dealerrater.com
+DEBUG 2020-12-22 01:20:11,493 - https://www.dealerrater.com:443 "GET /dealer/McKaig-Chevrolet-Buick-A-Dealer-For-The-People-dealer-reviews-23685/page2 HTTP/1.1" 200 280863
+DEBUG 2020-12-22 01:20:12,223 - Starting new HTTPS connection (1): www.dealerrater.com
+DEBUG 2020-12-22 01:20:12,660 - https://www.dealerrater.com:443 "GET /dealer/McKaig-Chevrolet-Buick-A-Dealer-For-The-People-dealer-reviews-23685/page3 HTTP/1.1" 200 261630
+DEBUG 2020-12-22 01:20:12,939 - Starting new HTTPS connection (1): www.dealerrater.com
+DEBUG 2020-12-22 01:20:13,778 - https://www.dealerrater.com:443 "GET /dealer/McKaig-Chevrolet-Buick-A-Dealer-For-The-People-dealer-reviews-23685/page4 HTTP/1.1" 200 252996
+DEBUG 2020-12-22 01:20:14,283 - Starting new HTTPS connection (1): www.dealerrater.com
+DEBUG 2020-12-22 01:20:15,106 - https://www.dealerrater.com:443 "GET /dealer/McKaig-Chevrolet-Buick-A-Dealer-For-The-People-dealer-reviews-23685/page5 HTTP/1.1" 200 262236
+DEBUG 2020-12-22 01:20:15,616 - Starting new HTTPS connection (1): www.dealerrater.com
+DEBUG 2020-12-22 01:20:16,520 - https://www.dealerrater.com:443 "GET /dealer/McKaig-Chevrolet-Buick-A-Dealer-For-The-People-dealer-reviews-23685/page1 HTTP/1.1" 200 250089
+INFO 2020-12-22 01:28:01,809 - Start running Scraper
+DEBUG 2020-12-22 01:28:17,115 - Starting new HTTPS connection (1): www.dealerrater.com
+DEBUG 2020-12-22 01:28:18,078 - https://www.dealerrater.com:443 "GET /dealer/McKaig-Chevrolet-Buick-A-Dealer-For-The-People-dealer-reviews-23685/page1 HTTP/1.1" 200 250089
+DEBUG 2020-12-22 01:28:18,436 - Starting new HTTPS connection (1): www.dealerrater.com
+DEBUG 2020-12-22 01:28:19,204 - https://www.dealerrater.com:443 "GET /dealer/McKaig-Chevrolet-Buick-A-Dealer-For-The-People-dealer-reviews-23685/page2 HTTP/1.1" 200 280863
+DEBUG 2020-12-22 01:28:19,821 - Starting new HTTPS connection (1): www.dealerrater.com
+DEBUG 2020-12-22 01:28:20,253 - https://www.dealerrater.com:443 "GET /dealer/McKaig-Chevrolet-Buick-A-Dealer-For-The-People-dealer-reviews-23685/page3 HTTP/1.1" 200 261630
+DEBUG 2020-12-22 01:28:20,560 - Starting new HTTPS connection (1): www.dealerrater.com
+DEBUG 2020-12-22 01:28:21,064 - https://www.dealerrater.com:443 "GET /dealer/McKaig-Chevrolet-Buick-A-Dealer-For-The-People-dealer-reviews-23685/page4 HTTP/1.1" 200 252212
+DEBUG 2020-12-22 01:28:21,297 - Starting new HTTPS connection (1): www.dealerrater.com
+DEBUG 2020-12-22 01:28:22,065 - https://www.dealerrater.com:443 "GET /dealer/McKaig-Chevrolet-Buick-A-Dealer-For-The-People-dealer-reviews-23685/page5 HTTP/1.1" 200 262236
+INFO 2020-12-22 01:28:22,814 - 1----------------------------------------------------------------------------------------------------
+INFO 2020-12-22 01:28:22,814 - "David VarnerI Purchased a 2020 Equinox.. David went..." - December 19, 2020 - Darrelldewyane2
+INFO 2020-12-22 01:28:22,814 - ----------------------------------------------------------------------------------------------------
+
+INFO 2020-12-22 01:28:22,814 - 2----------------------------------------------------------------------------------------------------
+INFO 2020-12-22 01:28:22,815 - "David Varner really worker hard over a couple of days to..." - December 17, 2020 - Stephanie.veaseyste 
+INFO 2020-12-22 01:28:22,815 - ----------------------------------------------------------------------------------------------------
+
+INFO 2020-12-22 01:28:22,815 - 3----------------------------------------------------------------------------------------------------
+INFO 2020-12-22 01:28:22,815 - "I’m Lou Ann Wise and I drove from Marshall, TX. Patrick..." - December 16, 2020 - louann326
+INFO 2020-12-22 01:28:22,815 - ----------------------------------------------------------------------------------------------------
+
+INFO 2020-12-22 01:29:19,111 - Start running Scraper
+DEBUG 2020-12-22 01:29:22,780 - Starting new HTTPS connection (1): www.dealerraterx.com

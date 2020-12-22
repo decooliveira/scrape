@@ -1,0 +1,41 @@
+<html>
+    <head>
+        <title>Scraper</title>
+
+        <style>
+            html{
+                font-family: sans-serif;
+            }
+            span{
+                font-family: 'Courier New', Courier, monospace;
+            }
+        </style>
+    </head>
+    
+    <body>
+        <h1>Scraper</h1>
+        <p>
+            Web scraping tool. Scraping the first 5 pages of reviews of <strong>McKaig Chevrolet Buick</strong> from 
+            <a href="https://www.dealerrater.com/dealer/McKaig-Chevrolet-Buick-A-Dealer-For-The-People-dealer-reviews-23685">Dealer Rater</a><br/>
+            Scraper Tool prints the 3 most positive reviews from the five pages of reviews.
+            <h3>How the most positive reviews are found?</h3> 
+            <p>A very simple logic was applied to determine the most positive reviews. First, only reviews with five stars rating are collected and then those reviews are sorted by the length of the endorsements texts.
+                Satisfied customers with positive reviews tend to write more. Obviously, in real scenarios, those endorsements could be assessed by AI tools. So, for the sake of simplicity,<strong> the considered most positive reviews are those with 5 stars rating and more text</stromg></p>
+        </p>
+        <h2>Requirements</h2>
+        <p>Python version 3.9.0  - <i>See <a href='https://www.python.org/downloads'>https://www.python.org/downloads</a></i>  </p>
+        <p>pip3 - The Python Package Installer. Version 20.3.4 - <i>See <a href='https://pip.pypa.io/en/stable/'>https://pip.pypa.io/en/stable/</a></i></p>
+        <h2>Dependencies</h2>
+        <p>Requests: <span>$ pip3 install requests</span>
+        </p>
+        <p>BeautifulSoup: <span>pip3 install beautifulsoup4</span></p>
+        <h2>Usage</h2>
+        <h3>Run</h3>
+        <p><span>python3 scraper.py</span></p>
+        <h3>Test</h3>
+        <p><span>python3 -m unnittest</span> to run all tests</p>
+        <p><span>python3 -m unnittest 'test_file_name'</span> to run a specific unit test</p>
+        <h2>Logs</h2>
+        File <span>logs.txt</span> stores the logs of this application. In order to change the file path of logs file, the value of FILE_PATH variable needs to be changed in the <span> Logger.py</span> class
+    </body>
+</html>
