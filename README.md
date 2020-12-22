@@ -7,7 +7,7 @@ Scraper Tool prints the 3 most positive reviews from the five pages of reviews.
 
 A very simple logic was applied to determine the most positive reviews. First, only reviews with five stars rating are collected and then those reviews are sorted by the length of the endorsements texts. Satisfied customers with positive reviews tend to write more. Obviously, in real scenarios, those endorsements could be assessed by AI tools. So, for the sake of simplicity, **the considered most positive reviews are those with 5 stars rating and more text**
 
-**
+
 
 ## Requirements
 
@@ -35,4 +35,4 @@ BeautifulSoup: <span>pip3 install beautifulsoup4</span>
 
 ## Logs
 
-File <span>logs.txt</span> stores the logs of this application. In order to change the file path of logs file, the value of FILE_PATH variable needs to be changed in the <span>Logger.py</span> class**
+File <span>logs.txt</span> stores the logs of this application. In order to change the file path of logs file, the value of **FILE_PATH** variable needs to be changed in the <span>Logger.py</span> class**
